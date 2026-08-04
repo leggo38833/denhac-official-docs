@@ -1,37 +1,64 @@
 # 3D Printing Special Interest Group
 
-The 3D printing SIG (SIG 3D printing) is responsible for the maintenance, governance, and administration of the 3D printing resources and equipment at denhac. This group will also respond to future events and large scale projects proposed by the membership, as well as oversee additions and changes to the 3D printing spaces within denhac.
+The SIG exists to facilitate safe and effective usage of the 3D-printing equipment at denhac. This group will maintain 3D-printing equipment, respond to future events and large-scale projects proposed by the membership, as well as oversee additions and changes to the 3D-printing space and equipment within denhac.
 
-## Scope and Matters Overseen by the 3D Printing SIG
+The group will respond to requests from denhac members for future needs and will help present proposals to the denhac Board of Directors that require funding of over $300.
 
+
+## Roles and Responsible Parties
+
+The SIG will be led by at least two co-leads and be aided by members in attendance of the monthly SIG meetings.
+
+General responsibilities for these Roles (this is not an exhaustive list):
+
+ - The SIG Leads will be generally responsible for SIG project management and/or delegation of these responsibilities, as well as the general governance of the group’s actions at large.
+ - SIG Leads are responsible for the appointments of properly qualified Trainers, as well as providing any of the necessary training for those members.
+
+## Scope of the 3D-Printing SIG
 ### In-Scope
 
-- Maintaining denhac-owned 3D Printers (Resin Printing Machines, FDM Printing Machines, and future additional machines)
-- Resources for use specific to the 3D Printers (Resin, Filament, Repair and Maintenance Tools, in-space 3D Printing Computer)
-- 3D Printer Access Control and governance
-- Project support and collaboration with other sigs and future denhac events
-- Maintenance and Improvements to the 3D Spaces within denhac
-- Responding to and managing the use of donated 3D Printing equipment, resources, and machines
-- Responding to and managing the use of temporarily loaned member-owned 3D printing machines
-- Addressing membership concerns and questions specific to equipment within the 3D Printing Spaces
-- Managing the spending and allocation of SIG funds, as well as coordinating Board Requests for additional funds
-- Defining the required knowledge needed for trainings and maintenance, as well as Authorized Trainers and Maintainers
-- Defining policy regarding specific materials and combination there of that are approved for use at denhac
+ - Responding to and managing the use of member-owned 3D-printing equipment on loan to denhac.
+ - Addressing membership questions and concerns specific to equipment within the 3D-printing space. 
+ - Maintaining documentation associated with the 3D-printing area.
+ - Managing the spending and allocation of SIG funds.
+ - Project support and collaboration with other SIGs and future denhac events.
+ - Maintenance and improvements to the 3D-printers and related space within denhac.
+ - Creating and teaching a comprehensive curriculum regarding safe and effective usage of the 3D-printing equipment to interested and permitted members.
+ - Defining the required knowledge needed for Trainers and Maintainers.
+ - Defining policies regarding specific materials that are or are not approved for use at denhac. 
+ - Maintaining denhac-owned 3D-printers and associated hardware including the computing infrastructure required to operate the machines.
+ - Resources for use and maintenance specific to the 3D-printers.
+ - Communicating with users of the 3D-printing area and general denhac members to educate and remind them of their responsibilities to clean and take care of the 3D-printing area.
+ - Defining the knowledge and skills required for members to be appointed to Positions of Trust.
+ - Defining policies and procedures local to the 3D-printing area.
+ - Facilitating events and enrichment activities related to 3D-printing within denhac.
+ - Performing actions, functions, and responsibilities common to all denhac SIGs as defined by the denhac Board of Directors (the Board) in the ["SIGs @ denhac"](https://github.com/Denhac/denhac-official-docs/blob/main/sigs.md) policy.
+ - Disciplinary measures such as removal of authorization or related privileges that arise from improper or unsafe use of the equipment. 
+
 
 ### Out-of-Scope
 
-- Maintenance and upkeep of member-owned 3D Printing machines
-- Member-owned and supplied filaments
-- Physical access permissions and controls to the 3D Printing spaces
+ - Maintenance and upkeep of member-owned 3D-printing machines that are not for use by denhac members.
+ - Member-owned materials.
+ - Anything not specifically listed as in-scope, or as determined by the SIG Leads.
+ - Individual responsibilities that are the duty of every denhac member, such as those found in the [denhac Membership Agreement](https://github.com/Denhac/denhac-official-docs/blob/main/membership-agreement.md). For example, reporting incidents that happen in the 3D-printing area is the responsibility of all denhac members; it is not exclusively the responsibility of members of the 3D-Printing SIG.
 
-## Roles and Responsibilities
 
-The 3D Printing SIG will have two Co-Leads. When there is a change-over of a person in the position of SIG Lead, the new Lead will assume the position and responsibility on the first day of the following month. 
+## Organization Management
 
-These 3D Printing SIG Co-Leads are responsible for the appointments of properly qualified Maintainers and Trainers. These positions will support the Co-Leads in matters regarding the upkeep and management of machines, as well as the training of new members. There is not a fixed number of these positions available; they are filled based on demonstrated skill and merit. 
+SIG decisions will be made by SIG Leads, who should strongly take into consideration the sentiments of any denhac member with a special interest in the 3D-printing equipment on site, while ultimately acting in the best interests of denhac as a whole. SIG Leads are encouraged, but not required, to make decisions using majority votes from 3D-Printing SIG members. Decisions made by the 3D-Printing SIG Leads can always be overridden by the denhac Board of Directors.
 
-## Communications and Organization Management
+Amendments to this charter must be presented through a proposal and approved by the denhac Board of Directors in a majority vote.
 
-The Official Slack channels related to the 3D Printing SIG are the public channels #sig-3d-printing, #help-resin-3d-printing, and #help-fdm-3d-printing. The private channel related to the 3D Printing SIG are #maintainers-3d-fdm and maintainers-3d-resin.
 
-Meetings will be organized on Slack and will appear on the Google Calendar at a regular frequency. 
+## Communications
+
+Official SIG communication will be conducted through the denhac Slack workspace in the following channels:
+ - #sig-3d-printing
+ - #help-resin-3d-printing
+ - #help-fdm-3d-printing
+
+
+## Meetings
+
+Meetings will be organized on Slack, appear on the Google Calendar, and will be held at least once a month. Meetings will be conducted at denhac whenever possible or perhaps remotely via video conference. Any active denhac member with a special interest in denhac's 3D-printing facilities is invited to attend, and any denhac member can elect to be a member of the SIG by simply joining the #sig-3d-printing slack channel.
