@@ -6,7 +6,7 @@ The group will respond to requests from denhac members for future needs and will
 
 
 
-## Roles and Responsibilities
+## Roles and Responsible Parties
 
 The SIG will be led by at least two co-leads and be aided by members in attendance of the monthly SIG meetings.
 
@@ -14,6 +14,8 @@ General responsibilities for these Roles (this is not an exhaustive list):
 
 - The SIG Leads will be generally responsible for SIG project management and/or delegation of these responsibilities, as well as the general governance of the group’s actions at large.
 - SIG Leads are responsible for the appointments of properly qualified Trainers, as well as providing any of the necessary training for those members.
+- Maintainers are responsible for maintenance of equipment and for training additional maintainers.
+- Trainers are responsible for training membership on specialized equipment and for training additional trainers.
 
 
 ## Scope of the 3D-Printing SIG
