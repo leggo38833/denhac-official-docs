@@ -1,53 +1,76 @@
- Electronics Special Interest Group Charter
+# Electronics Special Interest Group Charter
 
 _Updated: 2024-11-02_
 
 _Approved: 2024-11-05_
 
-## Purpose
-The denhac Electronics Special Interest Group (SIG) exists to coordinate and steward the activities in the electronics area of denhac. This SIG is responsible for the maintenance, governance, and administration of the electronics equipment, resources, and space at denhac. The SIG advocates for the needs of eletronics enthusiasts within denhac and seeks to enrich the organization as a whole by providing opportunities for all members to learn and make new things with electronics.
 
-## Scope
-This section is to identify what actions and functions at denhac the SIG should and should not have authority over. These items are called In-Scope and Out-Of-Scope respectively. This scope section is a reference for the SIG’s context and is intended to protect the SIG from infinitely growing ownership.
+The SIG exists to facilitate safe and effective usage of the electronics equipment at denhac. This group will maintain electronics equipment, respond to future events and large-scale projects proposed by the membership, as well as oversee additions and changes to the electronics space and equipment within denhac.
+
+The group will respond to requests from denhac members for future needs and will help present proposals to the denhac Board of Directors that require funding of over $300.
+
+
+## Roles and Responsible Parties
+
+The SIG will be led by at least two co-leads and be aided by members in attendance of the monthly SIG meetings.
+
+General responsibilities for these Roles (this is not an exhaustive list):
+
+- The SIG Leads will be generally responsible for SIG project management and/or delegation of these responsibilities, as well as the general governance of the group’s actions at large.
+- SIG Leads are responsible for the appointments of properly qualified Trainers, as well as providing any of the necessary training for those members.
+- Maintainers are responsible for maintenance of equipment and for training additional maintainers.
+- Trainers are responsible for training membership on specialized equipment and for training additional trainers.
+
+
+## Scope of the Electronics SIG
 
 ### In-Scope
- - Performing actions, functions, and responsibilities common to all denhac SIGs as defined by the denhac Board of Directors (the Board) in the ["SIGs @ denhac"](https://github.com/Denhac/denhac-official-docs/blob/main/sigs.md) policy
- - Collaborating with the Board, denhac safety officers, and facilities management to ensure that the safety requirements of electronics are being met, that safety equipment is in good working condition, and that degraded or expired safety equipment is repaired or replaced
- - Tracking the budget and expenditures of the electronics area
- - Maintaining denhac-owned electronics equipment, such as soldering irons, multimeters, oscilloscopes, etc
- - Managing resources dedicated for the use of electronics equipment such as soldering tips, calibration tools, etc
- - Maintaining documentation associated with the electronics area
- - Maintaining and improving the electronics area within denhac
- - Facilitating events and enrichment activities related to electronics within denhac
- - Responding to and managing the use of donated electronics equipment
- - Defining policies and procedures local to the electronics area
- - Providing input to the Board on organizational policies and procedures that impact the electronics area
- - Defining the knowledge and skills required for members to be authorized on electronics equipment
- - Teaching training courses regarding safe and effective usage of electronics equipment
- - Defining the knowledge and skills required for members to be appointed to Positions of Trust
- - Communicating with users of the electronics area and general denhac members to educate and remind them of their responsibilities to clean and take care of the electronics area
- - Offering project support and collaborating with other SIGs on denhac projects and events that could benefit from use of the electronics area
- - Addressing membership concerns and questions specific to equipment within the electronics area
 
-### Out-of-Scope
- - Storing or caretaking of member-owned materials
- - Anything not specifically listed as In-Scope
- - Individual responsibilities that are the duty of every denhac member, such as those found in the [denhac Membership Agreement](https://github.com/Denhac/denhac-official-docs/blob/main/membership-agreement.md). For example, reporting incidents that happen in the electronics area is the responsibility of all denhac members; it is not exclusively the responsibility of members of the Electronics SIG.
+- Responding to and managing the use of member-owned electronics equipment on loan to denhac.
+- Addressing membership questions and concerns specific to equipment within the electronics space.
+- Maintaining documentation associated with the electronics area.
+- Managing the spending and allocation of SIG funds.
+- Project support and collaboration with other SIGs and future denhac events.
+- Maintenance and improvements to the electronics equipment and related space within denhac.
+- Creating and teaching a comprehensive curriculum regarding safe and effective usage of the electronics equipment to interested and permitted members.
+- Defining the required knowledge needed for Trainers and Maintainers.
+- Defining the knowledge and skills required for members to be authorized on electronics equipment
+- Maintaining denhac-owned electronics equipment, such as soldering irons, multimeters, oscilloscopes, etc.
+- Managing resources dedicated for the use of electronics equipment such as soldering tips, calibration tools, etc.
+- Facilitating events and enrichment activities related to electronics within denhac.
+- Defining policies and procedures local to the electronics area.
+- Defining the knowledge and skills required for members to be appointed to Positions of Trust.
+- Communicating with users of the electronics area and general denhac members to educate and remind them of their responsibilities to clean and take care of the electronics area.
+- Performing actions, functions, and responsibilities common to all denhac SIGs as defined by the denhac Board of Directors (the Board) in the ["SIGs @ denhac"](https://github.com/Denhac/denhac-official-docs/blob/main/sigs.md) policy.
+- Disciplinary measures such as removal of authorization or related privileges that arise from improper or unsafe use of the equipment.
 
-## Roles
-### SIG Leads
-The description of these roles here is in addition to the description and expectations of SIG Leads contained within the official denhac ["SIGs @ denhac"](https://github.com/Denhac/denhac-official-docs/blob/main/sigs.md) policy.
 
-The number of Leads, selection of Leads, term limits of Leads, etc., will be in accordance with the ["SIGs @ denhac"](https://github.com/Denhac/denhac-official-docs/blob/main/sigs.md) organization-wide policy.
+### Out of Scope
+
+- Maintenance and upkeep of member-owned electronics related machines and equipment that are not for use by denhac members.
+- Member-owned materials.
+- Anything not specifically listed as in-scope, or as determined by the SIG Leads.
+- Individual responsibilities that are the duty of every denhac member, such as those found in the [denhac Membership Agreement](https://github.com/Denhac/denhac-official-docs/blob/main/membership-agreement.md). For example, reporting incidents that happen in the electronics area is the responsibility of all denhac members; it is not exclusively the responsibility of members of the Electronics SIG.
+
 
 ## Organization Management
-The denhac wiki will be used to store the SIG's important safety guides, user guides, and general information. The denhac GitHub will be used to store SIG meeting minutes and official policies and procedures.
 
-Official SIG communication will be conducted through the denhac Slack workspace using public channels for communication with SIG members and denhac members, and private channels for communication among SIG Leads. Currently, those channels are:
- - Public: `#sig-electronics`, `#help-electronics`
- - Private: `#sigops-electronics`
+SIG decisions will be made by the SIG Leads, who should strongly take into consideration the sentiments of any denhac member with a special interest in the electronics equipment on site, while ultimately acting in the best interests of denhac as a whole. SIG Leads are encouraged, but not required, to make decisions using majority votes from Electronics SIG members. Decisions made by the Electronics SIG Leads can always be overridden by the denhac Board of Directors.
 
-The Electronics SIG will meet once per month unless canceled due to no agenda items for the month. Meeting details and call for agenda items will be organized openly in the public SIG Slack channel and the event details will be posted on the denhac web calendar.
+Amendments to this charter must be presented through a proposal and approved by the denhac board of directors in a majority vote.
 
-## Budget
-The SIG requests a monthly recurring budget from the Board for common consumables and maintenance items used by the electronics area such as: cleaning supplies, ipa, solder, flux, wire, and tape.
+
+## Communications
+
+Official SIG communication will be conducted through the denhac Slack workspace in the following channels:
+
+- Public:
+   - #sig-electronics
+   - #help-electronics
+- Private:
+   - #sigops-electronics
+
+
+## Meetings
+
+Meetings will be organized on Slack, appear on the Google Calendar, and will be held at least once a month. Meetings will be conducted at denhac whenever possible or perhaps remotely via video conference. Any active denhac member with a special interest in denhac's electronics facilities is invited to attend, and any denhac member can elect to be a member of the SIG by simply joining the #sig-electronics slack channel.
