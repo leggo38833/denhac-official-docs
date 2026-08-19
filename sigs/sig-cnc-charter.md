@@ -1,58 +1,65 @@
 # CNC Special Interest Group
 
-The CNC SIG is responsible for the maintenance, governance, and administration of the CNC routers, adjacent equipment, and space at denhac.
+The SIG exists to facilitate safe and effective usage of the CNC equipment at denhac. This group will maintain CNC equipment, respond to future events and large-scale projects proposed by the membership, as well as oversee additions and changes to the CNC space and equipment within denhac.
 
-The group will respond to requests from denhac members for future needs and will help create recommendations to the board that require funding in excess of the budget provided to the SIG by the denhac board of directors.
+The group will respond to requests from denhac members for future needs and will help present proposals to the denhac Board of Directors that require funding of over $300.
+
 
 ## Roles and Responsible Parties
 
-The CNC SIG will be led by two Co-Leads, and a group of appointed Trainers/Maintainers. 
+The SIG will be led by at least two co-leads and be aided by members in attendance of the monthly SIG meetings.
 
 General responsibilities for these Roles (this is not an exhaustive list):
 
-* The SIG Co-Leads will be generally responsible for SIG project management and/or delegation of these responsibilities, as well as the general governance of the group's actions at large.
-* SIG Co-Leads are responsible for the appointments of properly qualified Maintainers and Trainers, as well as providing any extended training required for both.
-* Maintainers will support the Co-Leads in matters regarding the upkeep and management of machines.
-* Trainers will be responsible for authorizing members to use the machines safely and providing assistance with machine usage when appropriate.
-* There is not a fixed number of Maintainer and Trainer positions available; they are filled based on demonstrated skill, merit, enthusiasm, and member demand for the machines.
+- The SIG Leads will be generally responsible for SIG project management and/or delegation of these responsibilities, as well as the general governance of the group’s actions at large.
+- SIG Leads are responsible for the appointments of properly qualified Trainers, as well as providing any of the necessary training for those members.
+- Maintainers are responsible for maintenance of equipment and for training additional maintainers.
+- Trainers are responsible for training membership on specialized equipment and for training additional trainers.
+
 
 ## Scope of the CNC SIG
 
-The CNC SIG exists to facilitate safe and effective usage of the CNC routing equipment at denhac. This group will maintain CNC equipment, respond to future events and large scale projects proposed by the membership, as well as oversee additions and changes to the CNC routing space and equipment within denhac.
+### In-Scope
 
-#### ***In-Scope***
+- Responding to and managing the use of member-owned CNC equipment on loan to denhac.
+- Addressing membership concerns and questions specific to equipment within the CNC router area.
+- Maintaining documentation associated with the CNC area.
+- Managing the spending and allocation of SIG funds.
+- Project support and collaboration with other SIGs and future denhac events.
+- Maintenance and improvements to the CNC routers and related space within denhac.
+- Creating and teaching a comprehensive curriculum regarding safe and effective usage of the CNC routers to all interested and permitted members.
+- Defining the required knowledge needed for Authorized Trainers and Maintainers, as well as providing this knowledge to certify denhac members as Trainers and Maintainers of the CNC routers when appropriate.
+- Defining policies regarding specific materials and end effectors that are approved for use with the CNC routers at denhac.
+- Maintaining denhac-owned CNC routers and associated hardware including the computing infrastructure required to operate the machines.
+- Resources for use and maintenance specific to the CNC routers such as work holding, calibration tools, etc.
+- Communicating with users of the CNC area and general denhac members to educate and remind them of their responsibilities to clean and take care of the CNC area.
+- Defining the knowledge and skills required for members to be appointed to Positions of Trust.
+- Defining policies and procedures local to the CNC area.
+- Facilitating events and enrichment activities related to CNC within denhac.
+- Performing actions, functions, and responsibilities common to all denhac SIGs as defined by the denhac Board of Directors (the Board) in the ["SIGs @ denhac"](https://github.com/Denhac/denhac-official-docs/blob/main/sigs.md) policy.
+- Disciplinary measures such as removal of CNC authorization or related privileges that arise from improper and unsafe use of the equipment.
 
-* Maintaining denhac-owned CNC routers and associated hardware including the computing infrastructure required to operate the machines
-* Resources for use and maintenance specific to the CNC routers such as workholding, calibration tools, etc
-* Project support and collaboration with other sigs and future denhac events
-* Maintenance and Improvements to the CNC routers (Shapeoko 5 Pro, Space Owned CNC Mill/Routers) and related space within denhac
-* Responding to and managing the use of donated CNC routers and equipment
-* Responding to and managing the use of member-owned CNC routing equipment on loan to denhac
-* Addressing membership concerns and questions specific to equipment within the CNC router area
-* Disciplinary measures such as removal of CNC authorization or related privileges
-* Managing the spending and allocation of SIG funds, as well as coordinating Board Requests for additional funds
-* Creating and teaching a comprehensive curriculum regarding safe and effective usage of the CNC routers to all interested and permitted members
-* Defining the required knowledge needed for Authorized Trainers and Maintainers, as well as providing this knowledge to certify denhac members as Trainers and Maintainers of the CNC routers when appropriate
-* Defining policy regarding specific materials and end effectors that are approved for use with the CNC routers at denhac
 
-#### ***Out-of-Scope***
+### Out of Scope
 
-* Maintenance and upkeep of member-owned CNC machines that aren't for use by denhac members
-* Member-owned materials
-* Anything not specifically listed as In-Scope, or as determined by the SIG Leads
+- Maintenance and upkeep of member-owned CNC machines that are not for use by denhac members.
+- Member-owned materials.
+- Anything not specifically listed as in-scope, or as determined by the SIG Leads.
+- Individual responsibilities that are the duty of every denhac member, such as those found in the [denhac Membership Agreement](https://github.com/Denhac/denhac-official-docs/blob/main/membership-agreement.md). For example, reporting incidents that happen in the CNC area is the responsibility of all denhac members; it is not exclusively the responsibility of members of the CNC SIG.
+
 
 ## Organization Management
 
-SIG decisions will be made by the SIG leads, who should strongly take into consideration the sentiments of any denhac member with a special interest in the CNC routers on site, while ultimately acting in the best interests of denhac as a whole. SIG leads are encouraged to make decisions using majority votes from CNC SIG members. Decisions made by the CNC SIG leads can always be overridden by the denhac board of directors.
+SIG decisions will be made by the SIG Leads, who should strongly take into consideration the sentiments of any denhac member with a special interest in the CNC routers on site, while ultimately acting in the best interests of denhac as a whole. SIG Leads are encouraged, but not required, to make decisions using majority votes from CNC SIG members. Decisions made by the CNC SIG Leads can always be overridden by the denhac Board of Directors.
 
-Amendments to this charter can be made during group meetings by vote between SIG members and Leads, or by the denhac board of directors at any time according to the rules in place for modifications to denhac's own bylaws.
+Amendments to this charter must be presented through a proposal and approved by the denhac Board of Directors in a majority vote.
+
 
 ## Communications
-
 Official SIG communication will be conducted through the denhac Slack workspace in the following channels:
+- #sig-cnc
+- #help-cnc
 
-* Public: #sig-cnc, #help-cnc
-* Private: #cnc_trainers
 
 ## Meetings
 
